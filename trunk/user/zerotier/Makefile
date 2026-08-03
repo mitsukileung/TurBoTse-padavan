@@ -1,5 +1,5 @@
-SRC_NAME = ZeroTierOne-1.14.0
-SRC_URL = https://github.com/zerotier/ZeroTierOne/archive/refs/tags/1.14.0.tar.gz
+SRC_NAME = ZeroTierOne-1.16.0
+SRC_URL = https://github.com/zerotier/ZeroTierOne/archive/refs/tags/1.16.0.tar.gz
 
 THISDIR = $(shell pwd)
 FLAGS := DEFS=""
